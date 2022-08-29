@@ -1,2 +1,2 @@
-https://www.husainmamuwala.netlify.app
+husainmamuwala.netlify.app
 
